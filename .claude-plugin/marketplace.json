@@ -1,0 +1,17 @@
+{
+  "name": "ovdp-tools",
+  "owner": {
+    "name": "Lia Lihovsky"
+  },
+  "metadata": {
+    "description": "Інструменти для обліку ОВДП, куплених за кредитні кошти"
+  },
+  "plugins": [
+    {
+      "name": "ovdp-tracker",
+      "source": "./plugins/ovdp-tracker",
+      "description": "Google Таблиця-трекер ОВДП за кредитні кошти: налаштування з нуля через інтерв'ю, покупки, продажі, очікуваний дохід, нагадування в Календар.",
+      "version": "1.0.0"
+    }
+  ]
+}

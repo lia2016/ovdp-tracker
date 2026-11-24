@@ -1,0 +1,16 @@
+{
+  "name": "ovdp-tracker",
+  "version": "1.0.0",
+  "description": "Google Таблиця-трекер ОВДП (військових облігацій), куплених за кредитні кошти з пільговим періодом: Claude розпитає про ваші картки, ліміти, брокерів і облігації, побудує таблицю й допомагатиме вести покупки та продажі.",
+  "author": {
+    "name": "Lia Lihovsky"
+  },
+  "keywords": [
+    "ОВДП",
+    "облігації",
+    "Google Sheets",
+    "кредитна картка"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/lia2016/ovdp-tracker"
+}
